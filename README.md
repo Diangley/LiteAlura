@@ -1,4 +1,4 @@
-# LiteAlura
+# LiterAlura
 Desafio LiteAlura da formação Especialização em Back-End do programa da ONE
 # Funcionalidades
 1. Buscar livros por título ou autor.
